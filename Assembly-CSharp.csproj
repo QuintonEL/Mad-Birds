@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Bird.cs" />
+     <Compile Include="Assets\Enemy.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/quinton/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -642,6 +643,12 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/home/quinton/Projects/Unity/Mad Birds/Mad Birds/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>/home/quinton/Projects/Unity/Mad Birds/Mad Birds/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>/home/quinton/Projects/Unity/Mad Birds/Mad Birds/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
