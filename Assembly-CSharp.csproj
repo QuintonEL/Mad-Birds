@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\Bird.cs" />
      <Compile Include="Assets\Enemy.cs" />
+     <Compile Include="Assets\LevelController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/quinton/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
