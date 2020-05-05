@@ -2,3 +2,5 @@ Base path: '/home/quinton/Unity/Hub/Editor/2019.3.12f1/Editor/Data', plugins pat
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
   api=15 insize=1957 outsize=3376 ok=1
+
+Quitting shader compiler process
